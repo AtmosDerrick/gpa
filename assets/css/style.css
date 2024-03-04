@@ -1474,6 +1474,7 @@ section {
   padding-top: 30px; /* Optional: space at the top */
   height: 0;
   overflow: hidden;
+  background-color: rgb(198, 198, 198);
 }
 .video-container video {
   position: absolute;
