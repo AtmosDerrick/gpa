@@ -190,6 +190,7 @@ h6 {
 .navbar .active:focus,
 .navbar li:hover > a {
   color: #5d0000;
+  font-weight: bolder;
 }
 
 .navbar .getstarted,
